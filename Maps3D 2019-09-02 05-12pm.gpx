@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Maps 3D" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<trk>
+<name>Maps3D 2019-09-02 05-12pm</name>
+<extensions>
+<Maps3D:TrackExtensions xmlns:Maps3D="http://www.movingworld.de/xmlschemas/GpxExtensions/v1">
+<Maps3D:RealSpeed>2.355386</Maps3D:RealSpeed>
+<Maps3D:RealSecondsSpent>202</Maps3D:RealSecondsSpent>
+</Maps3D:TrackExtensions>
+</extensions>
+<trkseg>
+<trkpt lat="50.565090" lon="4.695089">
+   <ele>146.517319</ele>
+   <time>2019-09-02T15:09:56Z</time>
+</trkpt>
+<trkpt lat="50.564942" lon="4.695232">
+   <ele>145.797791</ele>
+   <time>2019-09-02T15:10:11Z</time>
+</trkpt>
+<trkpt lat="50.565065" lon="4.695116">
+   <ele>146.369797</ele>
+   <time>2019-09-02T15:11:01Z</time>
+</trkpt>
+<trkpt lat="50.565159" lon="4.694948">
+   <ele>146.878555</ele>
+   <time>2019-09-02T15:11:23Z</time>
+</trkpt>
+<trkpt lat="50.565252" lon="4.694785">
+   <ele>147.178680</ele>
+   <time>2019-09-02T15:11:39Z</time>
+</trkpt>
+<trkpt lat="50.565355" lon="4.694617">
+   <ele>147.477203</ele>
+   <time>2019-09-02T15:11:54Z</time>
+</trkpt>
+<trkpt lat="50.565406" lon="4.694825">
+   <ele>148.125961</ele>
+   <time>2019-09-02T15:12:29Z</time>
+</trkpt>
+<trkpt lat="50.565275" lon="4.694989">
+   <ele>147.632996</ele>
+   <time>2019-09-02T15:12:45Z</time>
+</trkpt>
+</trkseg></trk></gpx>
